@@ -1,1 +1,0 @@
-<?php include get_theme_root().'/twentyeleven/index.php'; ?>
