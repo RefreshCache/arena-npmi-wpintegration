@@ -1,0 +1,3 @@
+This WordPress plugin provides an integration with Arena using the Arena Web Services API. It allows a user to login using their Arena credentials and then make subsequent API calls utilizing that user's security. It also includes a theme (that extends the WP twentyeleven theme) with a custom page template demonstrating the use of the plugin to call Arena and display person details on a page.
+
+Follow the readme instructions to install and configure the plugin; then install and select the theme in your appearances tab. To use a demo page, create a new page and select the User Info template as the page type.
